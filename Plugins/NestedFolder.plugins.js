@@ -7,6 +7,6 @@
  * @website https://github.com/Pretextor/BetterDiscordStuff
  * @source https://github.com/Pretextor/BetterDiscordStuff/Plugins/NestedFolder.js
 **/
-module.exports = class NestedFolder {
-  
+class NestedFolder {
+  function how()
 }
